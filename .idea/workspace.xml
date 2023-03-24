@@ -5,10 +5,155 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aff69ddb-0abd-4de5-bd41-8cea5ccf058b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myprofile/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myprofile/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/resume/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/johndoe.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/css/johndoe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/advertising-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/advertising-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/advertising-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/advertising-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/advertising-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/advertising-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/advertising-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/advertising-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/blog1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/blog1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/blog2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/blog2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/blog3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/blog3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/branding-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/branding-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/branding-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/branding-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/branding-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/branding-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/branding-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/branding-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/branding-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/branding-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/web-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/web-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/web-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/web-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/web-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/web-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/web-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/imgs/web-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/johndoe.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/js/johndoe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/abstracts/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/abstracts/mixins/_shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/abstracts/mixins/_shadow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/abstracts/mixins/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/abstracts/mixins/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_breadcrumb.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_dropdowns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_dropdowns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_navbars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_navbars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/components/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/johndoe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/johndoe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/layout/_sections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/layout/_sections.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_button-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_close.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_custom-forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_input-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_jumbotron.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_popover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_progress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_root.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_spinners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_spinners.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_toasts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_size.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_align.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_display.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_position.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.affix.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.affix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/bootstrap/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/isotope/isotope.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/isotope/isotope.pkgd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/isotope/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/isotope/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/jquery/jquery-3.4.1.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/jquery/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/themify-icons/css/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/themify-icons/css/themify-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/themify-icons/fonts/themify.eot" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/themify-icons/fonts/themify.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/themify-icons/fonts/themify.svg" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/themify-icons/fonts/themify.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendors/themify-icons/fonts/themify.woff" beforeDir="false" afterPath="$PROJECT_DIR$/resume/static/vendors/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/templates/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +176,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/nc/Desktop/myprofile/myprofile/static"
+    "last_opened_file_path": "C:/Users/nc/Desktop/myprofile"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -76,5 +221,16 @@
       <updated>1677820527408</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
